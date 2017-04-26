@@ -1,0 +1,7 @@
+{
+    "name": "test/drupal",
+    "description": "test devops",
+    "require": {
+        "drush/drush": "^8.1"
+    }
+}
